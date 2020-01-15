@@ -59,6 +59,7 @@ git push
 
 ### Basic shell commands (Use Mac commands for when in Git Bash)
 - To view all folders in the current directory type:
+
 Mac/Linux
 ```shell
 ls
